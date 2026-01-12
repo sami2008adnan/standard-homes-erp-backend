@@ -6,7 +6,7 @@ This is the Node.js + MongoDB backend for Standard Homes ERP.
 1. Create a `.env.local` file with:
    ```
    PORT=3000
-   MONGO_URI=mongodb+srv://standerd:<db_password>@cluster0.2dvlsrg.mongodb.net/standardhomes
+   MONGO_URI=mongodb+srv://standerd:Aa20082016@cluster0.2dvlsrg.mongodb.net/standardhomes
    ```
 2. Run:
    ```
