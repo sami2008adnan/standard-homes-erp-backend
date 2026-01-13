@@ -1,0 +1,14 @@
+{
+  "name": "standard-homes-erp-backend",
+  "version": "1.0.0",
+  "description": "Cloud backend for Standard Homes ERP",
+  "main": "server_mongodb.js",
+  "scripts": {
+    "start": "node server_mongodb.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.0.0"
+  }
+}
